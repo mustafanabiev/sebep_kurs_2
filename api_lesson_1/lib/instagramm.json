@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Asan",
+        "lastName": "Usonov",
+        "age": 30,
+        "image": "asdfghjk",
+        "email": "asan@gmail.com",
+        "password": "123456",
+        "video": "asdfghjkl",
+        "comments": "asdfghjk"
+    },
+    {
+        "id": 2,
+        "name": "Akmat",
+        "lastName": "Adiev",
+        "age": 20,
+        "image": "wefsrvdbg",
+        "email": "vsbvwrbvwrbvn@gmail.com",
+        "password": "vwrbvs",
+        "video": "asdfsrbsbghjkl",
+        "comments": "asdfghjk"
+    },
+    {
+        "id": 3,
+        "name": "Aigul",
+        "lastName": "Asanova",
+        "age": 50,
+        "image": "acvcda",
+        "email": "asavavadvdavn@gmail.com",
+        "password": "12dvdvdv3456",
+        "video": "asdsfwfghjkl",
+        "comments": "asdfghjk"
+    }
+]
